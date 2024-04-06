@@ -11,7 +11,7 @@ const baseUrl = process.env.BASE_URL ?? "/";
 export default async function createConfigAsync() {
   /** @type {import('@docusaurus/types').Config} */
   return {
-    title: "RISC Zero Developer Docs",
+    title: "RISC Zero Developer Docs!!!!",
     tagline: "Hyper-Efficient General Purpose Zero-Knowledge Computing.",
     favicon: "img/logo.png",
 
